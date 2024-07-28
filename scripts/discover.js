@@ -13,8 +13,7 @@ async function discoverAndAddNodes() {
     }
 
     const peers = [
-      'enode://<enode_address1>@<ip1>:<port1>',
-      'enode://<enode_address2>@<ip2>:<port2>',
+      'enode://e527e756f07f48207605ffc7d91f02d310fa5f3e24efb1b49c0ecee35baf0abaf16b0b43994216d6ca0322e0dcabace7db426c3974a8c7e07285791f25f53284@34.50.70.22:30303',
     ];
 
     // Add each peer to the current node
